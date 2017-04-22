@@ -59,9 +59,9 @@ More information [Shield Global Chat](https://t.me/joinchat/AAAAAEKRtuWF22uMOmf
 
 # Developers!
 
-# [Pedi Shield][(Telegram)](https://telegram.me/Xx_KinG_SuPeR_AdMiN_SHIELD_xX)
+### Pedi Shield[(Telegram)](https://telegram.me/Xx_KinG_SuPeR_AdMiN_SHIELD_xX)
 
-# [Hidden Shield][(Telegram)](https://telegram.me/Xx_PesareShield_shah2Arvah_xX)
+### Hidden Shield[(Telegram)](https://telegram.me/Xx_PesareShield_shah2Arvah_xX)
 
 
 ### Our Telegram channel:
