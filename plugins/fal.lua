@@ -1,0 +1,1 @@
+function run(msg, matches) local title , res = http.request('http://emrani.net/hafez/api/hafez/fal') if res ~= 200 then return "خطا!\n\nby 🌟@Shield_Tm🌟" end local jdat = json:decode(title)local text = jdat.poem.."\n\nby 🌟@Shield_Tm🌟" return text end return { patterns = {"^([Ff][Aa][Ll])$"}, run = run }
